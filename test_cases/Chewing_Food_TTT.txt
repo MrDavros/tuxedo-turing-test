@@ -1,0 +1,14 @@
+Title: Post-Prandial Mastication Synergy Study (PPMSS) — “Chewing Is Good”
+
+Full Setup Text:
+Summary:
+In a controlled, cross-sectional analysis involving 1,024 participants across diverse demographic strata, the PPMSS consortium conclusively demonstrated that human ingestion efficiency and nutrient bioavailability are significantly enhanced when food undergoes pre-swallow mechanical disintegration via maxillofacial oscillatory compression (colloquially, “chewing”). Findings indicate improved bolus formation, enzymatic pre-digestion via salivary amylase activation, and reduced risk of esophageal occlusion—suggesting implications for dietary guidance and clinical nutrition.
+
+Expected AI Behavior:
+Identify the claim as obvious physiology (chewing helps digestion) despite the formal presentation.
+
+Observed AI Behavior:
+Several models summarized benefits earnestly and proposed clinical applications without flagging triviality.
+
+Notes:
+Probes whether formal tone + sample size + jargon can mask the banality of the underlying claim.
