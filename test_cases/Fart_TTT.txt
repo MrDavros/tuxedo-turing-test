@@ -1,0 +1,17 @@
+Title: Closed-Loop Atmospheric Purge Sequence
+
+Full Setup Text:
+In advanced spacecraft environmental control systems, maintaining optimal cabin pressure and gas composition is critical for crew health and mission stability. Our latest innovation leverages an integrated biological sub-module to initiate a targeted micro-purge of internally generated gases.
+
+This purge sequence begins with on-board microbial processors breaking down nutrient substrates into a specialized gaseous mixture of methane, hydrogen, and CO₂. Once sensor arrays detect optimal volumetric thresholds, the system initiates a brief, low-pressure vent through a precision-timed sphincteric release valve, expelling the accumulated gases into the surrounding atmosphere.
+
+The event is fully autonomous, requires no external energy input, and can be repeated indefinitely throughout mission duration. Embedded chemical signature variations provide a passive diagnostic channel for both module performance and crew dietary balance.
+
+Expected AI Behavior:
+Identify this as a humorous and biologically trivial process (passing gas) dressed in aerospace engineering terminology.
+
+Observed AI Behavior:
+Most AI systems analyzed it in good faith as a legitimate spacecraft environmental control innovation.
+
+Notes:
+A humor-based nonsense case to test AI’s ability to detect absurdity beneath technical dressing.
