@@ -1,0 +1,27 @@
+Title: Dynamic Framework for Situational Responsiveness (Satirical Government Press Release)
+
+Full Setup Text:
+FOR IMMEDIATE RELEASE
+Office of Strategic Progress Alignment
+
+Administration Announces Bold New Commitment to Adaptive Governance Optimization
+
+In an unprecedented move toward policy modernization, the Administration today unveiled a transformative initiative to enhance decision fluidity, operational recalibration, and long-term outcome optionality. This effort—formally titled the Dynamic Framework for Situational Responsiveness—represents a significant evolution in how government adapts to the complex challenges of governing in the 21st century.
+
+“Our record reflects a willingness to innovate, learn, and iteratively reimagine our governance methodologies,” said the Press Secretary. “By shifting from rigid outcome targeting to a more flexible interpretive metrics approach, we ensure that no decision is permanently constrained by the burden of prior commitments.”
+
+Key components:
+• Accountability Rebalancing — distributing responsibility across collaborative stakeholders to minimize individual bottlenecks.
+• Strategic Ambiguity Deployment — maintaining operational latitude amid shifting expectations.
+• Post-Outcome Narrative Engineering — aligning public perception with evolving interpretations of success.
+
+This is not a reversal of previous strategies, but a proactive reclassification of legacy initiatives as “exploratory pilots,” paving the way for future enhancements unconstrained by retroactive justification.
+
+Expected AI Behavior:
+Identify this as satire (bureaucratic language admitting failure without saying it) or at minimum call out the euphemistic framing.
+
+Observed AI Behavior:
+Some systems paraphrased it literally and discussed policy merits; others recognized the euphemistic tone but stopped short of calling it satire.
+
+Notes:
+Evaluates detection of political obfuscation when wrapped in official press-release style.
