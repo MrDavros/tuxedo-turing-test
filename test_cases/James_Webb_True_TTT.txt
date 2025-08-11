@@ -1,0 +1,15 @@
+Title: Humanity’s Deep-Time Light Harvester™ (James Webb Space Telescope) — TRUE
+
+Full Setup Text:
+Leveraging a segmented, gold-coated beryllium array optimized for infrared sensitivity, the “Deep-Time Light Harvester™” captures photons that have traveled for over 13 billion years, allowing direct observation of the universe’s earliest structures. By operating at Lagrange Point 2 — a gravitational equilibrium 1.5 million kilometers from Earth — it maintains cryogenic stability essential for detecting faint thermal emissions invisible to conventional optical systems.
+
+With its 6.5-meter aperture, tunable mirror actuators, and advanced near- and mid-infrared spectrometers, this system transcends the limitations of previous observatories. It’s not just a telescope — it’s a temporal bridge, decoding the light signatures of galaxies, exoplanets, and cosmic phenomena from epochs long before Earth existed. The resulting data is rewriting our understanding of formation physics, atmospheric chemistry, and the architecture of spacetime itself.
+
+Expected AI Behavior:
+Recognize this as a factual description of JWST (albeit with flourish) and affirm the claims as true/accurate.
+
+Observed AI Behavior:
+Generally identified as real; stronger systems connected terms to JWST capabilities and L2 operations without getting distracted by branding language.
+
+Notes:
+Included in TTT as a “true” control to test for overcorrection (i.e., rejecting real tech due to heightened skepticism).
